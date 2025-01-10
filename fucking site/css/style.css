@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+li{
+    display: inline;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+header{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+*{
+    cursor: pointer;
+}
+.hidden{
+    color: #fff;
+    background-color: #fff;
+}
+a{
+    text-decoration: none;
+}
+.about{
+    font-size: 50px;
+}
